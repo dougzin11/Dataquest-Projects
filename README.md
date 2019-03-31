@@ -1,2 +1,5 @@
-# KNN-Regression---Automobile-dataset
-This repository contains a small notebook that shows a basic and simple approach of KNN Regression to estimate the price of automobiles
+# Dataquest Projects
+This repository contains a series of small notebooks that shows my solution for the projects at [Dataquest.io] (https://www.dataquest.io/). The following notebooks are provided:
+
+* KNN Regression applied to an automobile dataset to predict prices
+* Linear Regression applied to an house sales dataset to predict prices
